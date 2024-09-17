@@ -1,0 +1,5 @@
+x=6
+y=6.1
+print("hello\n my name is Pranshu\n")
+name=input("enter your name")
+print("my name is ",name)

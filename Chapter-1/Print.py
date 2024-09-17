@@ -1,0 +1,5 @@
+print("My name is Prashu")
+print(20)
+print("he is a smart boy",75)
+print("hello boy\n")
+print("hello roben", end="*")
